@@ -1,0 +1,86 @@
+Header;0;0;0;0;0;0;0;0
+"-----GENERAL INFORMATION-----";;;;;;;;
+"Cycle number";0;0;0;0;1;1;2;2
+"Session number";0;0;0;0;1;1;1;1
+"Firmware checksum";0xAB9B;0xA847;0xA847;0xA847;0xA847;0xA847;0xA847;0xA847
+"Float serial number";22001;22001;22001;22001;22001;22001;22001;22001
+"-----EMERGENCE REDUCTION-----";;;;;;;;
+Day;0;0;0;0;9;0;0;0
+Month;0;0;0;0;12;0;0;0
+Year;0;0;0;0;23;0;0;0
+"Cycle day (day)";0;0;0;0;0;0;0;0
+"Cycle hour (h)";0;0;0;0;2.53333;0;0;0
+"Fix volume (second)";0;0;0;0;0;0;0;0
+"Number of valve actions at the surface";0;0;0;0;30;0;0;0
+"Grounding flag";0;0;0;0;1;0;0;0
+"-----PARKING DEPTH DESCENT-----";;;;;;;;
+"Descent start time (h)";0;0;0;0;0;0;0;0
+"Float stabilisation time (h)";0;0;0;0;0;0;0;0
+"End of descent time (h)";0;0;0;0;0;0;0;0
+"Number of valve actions in descent";0;0;0;0;0;0;0;0
+"Number of pump actions in descent";0;0;0;0;0;0;0;0
+"Float stabilisation pressure (dbar)";0;0;0;0;0;0;0;0
+"Max pressure during descent to parking depth (dbar)";0;0;0;0;0;0;0;0
+"-----PARKING DRIFT PHASE-----";;;;;;;;
+"Cycle day (day)";0;0;0;0;0;0;0;0
+"Number of entrance in drift target range (descent)";0;0;0;0;0;0;0;0
+"Number of repositions";0;0;0;0;0;0;0;0
+"Minimum pressure in drift to parking depth (dbar)";0;0;0;0;2100;0;0;0
+"Maximum pressure in drift to parking depth (dbar)";0;0;0;0;0;0;0;0
+"Number of valve actions in parking";0;0;0;0;0;0;0;0
+"Number of pump actions in parking";0;0;0;0;0;0;0;0
+"-----DESCENT TO PROFILE DEPTH-----";;;;;;;;
+"descent start time (h)";0;0;0;0;0;0;0;0
+"End of descent time (h)";0;0;0;0;0;0;0;0
+"Number of valve actions in descent";0;0;0;0;0;0;0;0
+"Number of pump actions in descent";0;0;0;0;0;0;0;0
+"Max pressure in descent to profile (dbar)";0;0;0;0;0;0;0;0
+"-----DRIFT TO PROFILE PHASE-----";;;;;;;;
+"Number of entrance in drift target range";0;0;0;0;0;0;0;0
+"Number of re-positioning in profile stand-by";0;0;0;0;0;0;0;0
+"Number of valve actions in drift to Profile";0;0;0;0;0;0;0;0
+"Number of pump actions in drift to Profile";0;0;0;0;0;0;0;0
+"Minimum pressure in drift to Profile (dbar)";4000;0;0;0;2100;4000;4000;4000
+"Maximum pressure in drift to Profile (dbar)";0;0;0;0;0;0;0;0
+"-----ASCENT PHASE-----";;;;;;;;
+"Ascent start time (h)";0;0;0;0;0;0;0;0
+"Time at end of ascent (h)";0;0;0;0;4.13333;0;0;0
+"Number of pump actions in ascent";0;0;0;0;0;0;0;0
+"-----GENERAL INFORMATIONS-----";;;;;;;;
+"Float time : Hour";13;17;17;2;4;9;17;5
+"Float time : Minute";25;19;49;29;16;20;24;25
+"Float time : Second";57;36;20;31;55;5;53;12
+"Float time : Day";20;5;5;9;9;9;3;4
+"Float time : Month";6;9;9;12;12;12;7;7
+"Float time : Year";22;23;23;23;23;23;25;25
+"Pressure sensor offset (cbar)";0;0;0;0;0;0;0;0
+"Internal pressure (mbar)";615;635;645;620;615;615;605;605
+"Batteries voltage at Pmax (V)";10.4;10.4;10.5;10.4;10.5;10.8;10.8;10.8
+"RTC state indicator (normal=0 failure=1)";0;0;0;0;0;0;0;0
+"Coherence problem counter";0;0;0;0;0;0;0;0
+"Dissolved oxygen sensor state (0=Ok 1=Pb 2=None)";2;2;2;2;2;2;2;2
+"-----GPS DATA-----";;;;;;;;
+"GPS latitude (°)";44;44;44;21;21;21;28;28
+"GPS latitude (minutes)";40;40;40;59;59;59;57;54
+"GPS latitude (minutes fractions (4th))";9266;9253;9238;4915;7866;7381;7828;816
+"GPS latitude orientation (0=North 1=South)";0;0;0;1;1;1;1;1
+"GPS longitude (°)";63;63;63;1;1;1;14;14
+"GPS longitude (minutes)";36;36;36;12;12;15;48;48
+"GPS longitude (minutes fractions (4th))";7427;7375;7406;5513;8275;2995;9021;3483
+"GPS longitude orientation (0=East 1=West)";1;1;1;1;1;1;1;1
+"GPS valid fix (1=valid 0=not valid)";1;1;1;1;1;1;1;1
+"Session duration (second)";34;36;34;34;31;36;38;38
+""
+"Pumping delay for GPS emergence (s)";0;0;0;0;0;0;0;0
+"Antenna status (0=DontKnow 1=Ok 2=Short 3=Open)";1;1;1;1;1;1;1;1
+"-----END OF LIFE-----";;;;;;;;
+"End of life flag";0;0;0;0;1;1;1;1
+Hour;0;0;0;0;4;4;22;22
+Minute;0;0;0;0;16;16;26;26
+Second;0;0;0;0;2;2;39;39
+Day;0;0;0;0;9;9;21;21
+Month;0;0;0;0;12;12;12;12
+Year;0;0;0;0;23;23;23;23
+-----SYSTEM-----;;;;;;;;
+"System calendar retiming (Old - New)(Usable only on GPS valid fix) (second)";1;46;-1;11;0;-1;0;0
+""

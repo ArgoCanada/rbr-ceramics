@@ -1,0 +1,86 @@
+Header;0;0;0
+"-----GENERAL INFORMATION-----";;;
+"Cycle number";1;0;0
+"Session number";1;0;0
+"Firmware checksum";0xAB9B;0xA847;0xA847
+"Float serial number";20001;20001;20001
+"-----EMERGENCE REDUCTION-----";;;
+Day;0;0;0
+Month;0;0;0
+Year;0;0;0
+"Cycle day (day)";0;0;0
+"Cycle hour (h)";0;0;0
+"Fix volume (second)";0;0;0
+"Number of valve actions at the surface";0;0;0
+"Grounding flag";0;0;0
+"-----PARKING DEPTH DESCENT-----";;;
+"Descent start time (h)";0;0;0
+"Float stabilisation time (h)";0;0;0
+"End of descent time (h)";0;0;0
+"Number of valve actions in descent";0;0;0
+"Number of pump actions in descent";0;0;0
+"Float stabilisation pressure (dbar)";0;0;0
+"Max pressure during descent to parking depth (dbar)";0;0;0
+"-----PARKING DRIFT PHASE-----";;;
+"Cycle day (day)";0;0;0
+"Number of entrance in drift target range (descent)";0;0;0
+"Number of repositions";0;0;0
+"Minimum pressure in drift to parking depth (dbar)";0;0;0
+"Maximum pressure in drift to parking depth (dbar)";0;0;0
+"Number of valve actions in parking";0;0;0
+"Number of pump actions in parking";0;0;0
+"-----DESCENT TO PROFILE DEPTH-----";;;
+"descent start time (h)";0;0;0
+"End of descent time (h)";0;0;0
+"Number of valve actions in descent";0;0;0
+"Number of pump actions in descent";0;0;0
+"Max pressure in descent to profile (dbar)";0;0;0
+"-----DRIFT TO PROFILE PHASE-----";;;
+"Number of entrance in drift target range";0;0;0
+"Number of re-positioning in profile stand-by";0;0;0
+"Number of valve actions in drift to Profile";0;0;0
+"Number of pump actions in drift to Profile";0;0;0
+"Minimum pressure in drift to Profile (dbar)";4000;0;0
+"Maximum pressure in drift to Profile (dbar)";0;0;0
+"-----ASCENT PHASE-----";;;
+"Ascent start time (h)";0;0;0
+"Time at end of ascent (h)";0;0;0
+"Number of pump actions in ascent";0;0;0
+"-----GENERAL INFORMATIONS-----";;;
+"Float time : Hour";19;19;19
+"Float time : Minute";41;30;38
+"Float time : Second";57;54;21
+"Float time : Day";9;22;22
+"Float time : Month";8;10;10
+"Float time : Year";21;23;23
+"Pressure sensor offset (cbar)";0;0;0
+"Internal pressure (mbar)";645;615;615
+"Batteries voltage at Pmax (V)";10.9;10.4;10.4
+"RTC state indicator (normal=0 failure=1)";0;0;0
+"Coherence problem counter";0;0;0
+"Dissolved oxygen sensor state (0=Ok 1=Pb 2=None)";2;2;2
+"-----GPS DATA-----";;;
+"GPS latitude (°)";21;42;42
+"GPS latitude (minutes)";46;4;4
+"GPS latitude (minutes fractions (4th))";807;6987;7080
+"GPS latitude orientation (0=North 1=South)";0;0;0
+"GPS longitude (°)";72;49;49
+"GPS longitude (minutes)";15;16;16
+"GPS longitude (minutes fractions (4th))";8656;6533;6391
+"GPS longitude orientation (0=East 1=West)";1;1;1
+"GPS valid fix (1=valid 0=not valid)";1;1;1
+"Session duration (second)";203;34;58
+""
+"Pumping delay for GPS emergence (s)";0;0;0
+"Antenna status (0=DontKnow 1=Ok 2=Short 3=Open)";1;1;1
+"-----END OF LIFE-----";;;
+"End of life flag";1;0;0
+Hour;8;0;0
+Minute;7;0;0
+Second;11;0;0
+Day;7;0;0
+Month;6;0;0
+Year;21;0;0
+-----SYSTEM-----;;;
+"System calendar retiming (Old - New)(Usable only on GPS valid fix) (second)";-2;-90;-1
+""
