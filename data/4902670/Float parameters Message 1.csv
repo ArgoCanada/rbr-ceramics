@@ -1,12 +1,12 @@
 ""
-"Cycle number";0;0
+"Cycle number";11;24
 "Session number";0;0
-"Float's hour";4;4
-"Float's minute";13;19
-"Float's second";24;24
-"Float's day";17;17
-"Float's month";7;7
-"Float's year";25;25
+"Float's hour";8;0
+"Float's minute";11;51
+"Float's second";7;42
+"Float's day";15;26
+"Float's month";9;1
+"Float's year";23;24
 "Float serial number";23001;23001
 "-----MISSION PARAMETERS - Next Cycle-----";;
 "MC0 - Nb of cycles";300;300
@@ -26,11 +26,11 @@
 "MC14 - Profile Depth of period 2 (dbar)";2000;2000
 "MC15 - Profile alterne period (1=Unused n=1/n alternate profile)";1;1
 "MC16 - Profile alterne depth (dbar)";2000;2000
-"MC17 - Threshold Surface/Intermediate Pressure (dbar)";50;50
-"MC18 - Threshold Intermediate/Bottom Pressure (dbar)";500;500
+"MC17 - Threshold Surface/Intermediate Pressure (dbar)";200;50
+"MC18 - Threshold Intermediate/Bottom Pressure (dbar)";400;500
 "MC19 - Surface Slice Thickness (dbar)";1;1
 "MC20 - Intermediate Slice Thickness (dbar)";5;5
-"MC21 - Bottom Slice Thickness (dbar)";10;10
+"MC21 - Bottom Slice Thickness (dbar)";32;10
 "MC22 - Iridum End of Life Period (minute)";60;60
 "MC23 - Inter Cycles Wait Period (minute)";0;0
 "MC24 - Grounding mode (0=pressure switch 1=stay grounded)";0;0
